@@ -1,6 +1,6 @@
 # CoderDojo-Belgium
-All you need is ♥
 ![Affiche BeCode CoderDojo du 13 novembre 2019](coderDojo.jpg "BeCode CoderDojo - 13 novembre 2019")
+All you need is ♥
 
 # LINKS
 ## Scratch
