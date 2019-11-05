@@ -1,5 +1,5 @@
 # CoderDojo-Belgium
-All you need is ♥
+All you need is ♥ [background color : #36024D]
 ![Affiche BeCode CoderDojo du 13 novembre 2019](coderDojo.jpg "BeCode CoderDojo - 13 novembre 2019")
 
 # LINKS
@@ -18,5 +18,3 @@ All you need is ♥
 
 ## Python
 - https://lecluseo.scenari-community.org/CircuitPython/co/g_batnav.html
-
-[background color : #36024D]
