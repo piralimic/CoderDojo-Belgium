@@ -18,3 +18,5 @@ All you need is ♥
 
 ## Python
 - https://lecluseo.scenari-community.org/CircuitPython/co/g_batnav.html
+
+[background color : #36024D]
