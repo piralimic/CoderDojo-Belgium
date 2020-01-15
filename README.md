@@ -1,4 +1,4 @@
-# Coder Dojo
+# BECODE : Coder Dojo
 All you need is ♥ [background color : #36024D]
 ![Affiche BeCode CoderDojo du 13 novembre 2019](coderDojo.jpg "BeCode CoderDojo - 13 novembre 2019")
 
