@@ -19,8 +19,11 @@ All you need is ♥ [background color : #36024D]
 ## Python
 - https://lecluseo.scenari-community.org/CircuitPython/co/g_batnav.html
 
+<br>
+
+<br>
+
 # USEFUL
-## Goodies
 ### BeCode Wallpaper
 ![Wallpaper BeCode](becode.png "BeCode Wallpaper")
 
